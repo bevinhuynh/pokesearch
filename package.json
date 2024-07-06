@@ -11,7 +11,7 @@
     "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch"
   },
   "devDependencies": {
-    "@sveltejs/adapter-auto": "^3.0.0",
+    "@sveltejs/adapter-auto": "^3.2.2",
     "@sveltejs/vite-plugin-svelte": "^3.0.2",
     "prettier": "^3.1.1",
     "prettier-plugin-svelte": "^3.1.2",
